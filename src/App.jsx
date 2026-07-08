@@ -7,6 +7,7 @@ import CallToAction from './Components/CallToAction/CallToAction'
 import Footer from './Components/Footer/Footer'
 import AllShowcasingProduct from './Components/AllShowcasingProduct/AllShowcasingProduct'
 import { Suspense } from 'react'
+import StepToStart from './Components/StepToStart/StepToStart'
 
 function App() {
 
@@ -29,6 +30,7 @@ function App() {
               <AllShowcasingProduct fetchingModernTools={fetchingModernTools}/>
       </Suspense>
 
+      <StepToStart/>
 
       <h2 className='text-6xl text-center my-5'>More Component Load In</h2>
 
