@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "name": "Starter Resume Kit",
+    "description": "Professional resume templates for fresh graduates and job seekers.",
+    "price": 9.99,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "20+ resume templates",
+      "ATS-friendly layouts",
+      "Export to PDF",
+      "Easy customization"
+    ],
+    "icon": "https://i.ibb.co.com/rGgZPqsz/resume-Kit.png"
+  },
+  {
+    "id": 2,
+    "name": "Pro Resume Builder",
+    "description": "AI-powered resume builder with premium templates.",
+    "price": 14.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "100+ premium templates",
+      "AI writing assistant",
+      "Unlimited downloads",
+      "Cover letter generator"
+    ],
+    "icon": "https://i.ibb.co.com/zWrxvyYq/resume-Builder-Pro.png"
+  },
+  {
+    "id": 3,
+    "name": "Career Success Bundle",
+    "description": "Complete career toolkit for job applications.",
+    "price": 89.99,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "Resume builder",
+      "Interview preparation",
+      "LinkedIn optimization",
+      "Career tracking"
+    ],
+    "icon": "https://i.ibb.co.com/HDvXs9c6/premium-Stock-Assets.png"
+  },
+  {
+    "id": 4,
+    "name": "Portfolio Builder",
+    "description": "Build a beautiful online portfolio without coding.",
+    "price": 12.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Custom themes",
+      "Drag & drop editor",
+      "SEO optimization",
+      "Responsive design"
+    ],
+    "icon": "https://i.ibb.co.com/rGW5chcQ/ai-Writing-Pro.png"
+  },
+  {
+    "id": 5,
+    "name": "Freelancer Toolkit",
+    "description": "Manage clients, invoices, and projects efficiently.",
+    "price": 49.99,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "Invoice generator",
+      "Project tracker",
+      "Contract templates",
+      "Expense reports"
+    ],
+    "icon": "https://i.ibb.co.com/dsPTmb89/toolkit.png"
+  },
+  {
+    "id": 6,
+    "name": "Learning Hub",
+    "description": "Premium online courses for career development.",
+    "price": 19.99,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "200+ video lessons",
+      "Certificates",
+      "Downloadable resources",
+      "Community support"
+    ],
+    "icon": "https://i.ibb.co.com/tPw0FS0v/automation-Toolkit.png"
+  },
+  {
+    "id": 7,
+    "name": "Business Analytics Pro",
+    "description": "Track business performance with powerful dashboards.",
+    "price": 29.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Real-time analytics",
+      "Custom reports",
+      "CSV export",
+      "Performance insights"
+    ],
+    "icon": "https://i.ibb.co.com/99pXKwSC/business-Analytics.png"
+  },
+  {
+    "id": 8,
+    "name": "Team Workspace",
+    "description": "Collaborate with your team in one centralized platform.",
+    "price": 149.99,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "Unlimited workspaces",
+      "Task management",
+      "File sharing",
+      "Real-time collaboration"
+    ],
+    "icon": "https://i.ibb.co.com/Sw1ktmNX/team-Workspace.png"
+  },
+  {
+    "id": 9,
+    "name": "Cloud Storage Plus",
+    "description": "Secure cloud storage for your personal and business files.",
+    "price": 7.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "500 GB storage",
+      "Automatic backups",
+      "File version history",
+      "Multi-device sync"
+    ],
+    "icon": "https://i.ibb.co.com/sxT76rM/cloud-Storage.png"
+  },
+  {
+    "id": 10,
+    "name": "Design Studio Premium",
+    "description": "Create stunning graphics with professional design tools.",
+    "price": 119.99,
+    "period": "yearly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "1000+ design assets",
+      "Premium fonts",
+      "Brand kit",
+      "Team collaboration"
+    ],
+    "icon": "https://i.ibb.co.com/Hpz9Cp0n/design-Templates-Pack.png"
+  },
+  {
+    "id": 11,
+    "name": "Website Builder",
+    "description": "Launch your own website with modern templates in minutes.",
+    "price": 15.99,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "50+ website templates",
+      "Free SSL",
+      "Custom domain",
+      "SEO tools"
+    ],
+    "icon": "https://i.ibb.co.com/4G9YJFX/website-Builder.png](https://i.ibb.co.com/4G9YJFX/website-Builder.png"
+  },
+  {
+    "id": 12,
+    "name": "Productivity Suite",
+    "description": "Boost productivity with notes, tasks, and calendar integration.",
+    "price": 59.99,
+    "period": "yearly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Task management",
+      "Calendar sync",
+      "Notes & reminders",
+      "Cross-platform access"
+    ],
+    "icon": "https://i.ibb.co.com/ccV7vGpL/social-Media-Content-Kit.png"
+  }
+]
