@@ -68,8 +68,7 @@ const NavBar = () => {
             Login
           </button>
 
-          {/* Get Started Button */}
-          <button className="btn bg-violet-600 hover:bg-violet-700 text-white rounded-full border-none">
+          <button className="btn bg-violet-600 border-transparent hover:border-[#632efd] hover:outline-[#632efd] hover:bg-[#ffffff] hover:text-[#632efd] text-white rounded-full">
             Get Started
           </button>
 

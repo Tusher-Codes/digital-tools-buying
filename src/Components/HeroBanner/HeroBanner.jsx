@@ -27,10 +27,10 @@ const HeroBanner = () => {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">
-              <button className="btn bg-violet-600 hover:bg-violet-700 text-white rounded-full border-none">
+              <button className="btn bg-violet-600 border-transparent hover:border-[#632efd] hover:outline-[#632efd] hover:bg-[#ffffff] hover:text-[#632efd] text-white rounded-full">
                 Explore Products
               </button>
-              <button className="btn btn-outline border-violet-600 text-violet-600 rounded-full">
+              <button className="btn btn-outline border-violet-600 text-violet-600 rounded-full hover:bg-[#632efd] hover:text-[#ffffff]">
                 <FaPlay />
                 Watch Demo
               </button>
