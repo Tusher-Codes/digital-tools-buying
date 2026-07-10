@@ -11,7 +11,7 @@ import StepToStart from './Components/StepToStart/StepToStart'
 import AllPricing from './Components/AllPricing/AllPricing'
 
 function App() {
-
+  const [availableProduct, setAvailableProduct] = useState('available')
 
   const fetchingDigitalTools = async() => {
     const fetchingDigiData = await fetch('/public/digitalTools.json')
@@ -42,7 +42,10 @@ function App() {
       <Suspense fallback={<div className="flex items-center justify-center bg-transparent">
               <span className="loading loading-ring text-primary loading-lg w-60 h-60"></span>
               </div>}>
-              <AllShowcasingProduct fetchingModernTools={fetchingModernTools}/>
+              <AllShowcasingProduct 
+                availableProduct={availableProduct}
+                setAvailableProduct={setAvailableProduct}
+                fetchingModernTools={fetchingModernTools}/>
       </Suspense>
 
       <StepToStart/>
