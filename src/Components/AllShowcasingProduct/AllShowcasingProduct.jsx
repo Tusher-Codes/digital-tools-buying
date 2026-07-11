@@ -53,7 +53,7 @@ const AllShowcasingProduct = ({
       </div>
 
       {availableProduct === "available" ? (
-        <div className="grid grid-cols-1 justify-items-center md:grid-cols-2 lg:grid-cols-3 gap-8 w-full">
+        <div className="max-w-[1200px] mx-auto grid grid-cols-1 justify-items-center md:grid-cols-2 lg:grid-cols-3 gap-8 w-full">
           {fetchingDigitalData.map((singleProduct) => (
             <SingleProduct
               key={singleProduct.id}
