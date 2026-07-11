@@ -15,7 +15,7 @@ const SingleProduct = ({singleProduct, selectedProduct, setSelectedProduct}) => 
     }
     return (
         <div>
-            <div className="relative max-w-sm w-full bg-white border border-gray-100 rounded-3xl p-8 shadow-sm font-sans text-left">
+            <div className="relative max-w-sm w-full bg-white border border-gray-100 rounded-3xl p-8 shadow-sm text-left">
       
                 {tag && (
                 <span
