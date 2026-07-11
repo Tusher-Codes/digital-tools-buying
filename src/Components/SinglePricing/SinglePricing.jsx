@@ -1,9 +1,8 @@
-import React from 'react';
 import { FaCheck } from 'react-icons/fa';
 
 const SinglePricing = ({singlePrice}) => {
     const {id, name, description, price, period, features, buttonText, isPopular} = singlePrice;
-    console.log(singlePrice)
+    // console.log(singlePrice)
     return (
   <div
       className={`relative flex flex-col justify-between border rounded-3xl p-8 transition-all duration-200 text-left w-full max-w-sm mx-auto
