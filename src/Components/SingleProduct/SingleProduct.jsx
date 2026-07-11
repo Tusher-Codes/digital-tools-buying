@@ -62,7 +62,7 @@ const SingleProduct = ({singleProduct, selectedProduct, setSelectedProduct}) => 
                 disabled:cursor-not-allowed
                 disabled:shadow-none
                 disabled:hover:bg-gray-300">
-                {isCartProduct ? "Already Added" : "Buy Now"}
+                {isCartProduct ? "Add to Cart" : "Buy Now"}
             </button>
 
             </div>
