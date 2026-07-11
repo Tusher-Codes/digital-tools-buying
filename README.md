@@ -68,30 +68,14 @@ src/
 
 ## 🚀 Getting Started
 
-### Clone the Repository
+### Repository Link
 
 ```bash
 git clone https://github.com/Tusher-Codes/digital-tools-buying.git
 ```
 
-### Navigate to the Project
+### Live Link
 
 ```bash
-cd digital-tools-buying
+https://tools-buying-digital.netlify.app/
 ```
-
-### Install Dependencies
-
-```bash
-npm install
-```
-
-### Start Development Server
-
-```bash
-npm run dev
-```
-
-
-
-
