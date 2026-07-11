@@ -1,13 +1,18 @@
 ````markdown
 # 🚀 Digital Tools Buying
 
-> A modern and responsive React application for exploring, comparing, and selecting digital tools with flexible pricing plans. Built with a clean UI and an intuitive user experience.
+> A modern and responsive React application for exploring and 
+selecting digital tools with flexible pricing plans. Built with 
+a clean UI and an intuitive user experience.
 
 ---
 
 ## 📖 About the Project
 
-**Digital Tools Buying** is a modern web application where users can browse various digital tools, view their pricing and select the tools they want. The application focuses on providing a clean, responsive, and user-friendly interface for discovering premium digital products.
+**Digital Tools Buying** is a modern web application where users can browse 
+various digital tools, view their pricing and select the tools they want. The application
+focuses on providing a clean, responsive, and user-friendly interface 
+for discovering premium digital products.
 
 ---
 
